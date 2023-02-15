@@ -1,0 +1,28 @@
+* {
+    border: 2px solid black;
+    /* margin: 0;
+    padding: 0; */
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.row1 img{
+    display: inline-block;
+    width: 80%;
+    height: auto;
+}
+
+.row2 img{
+    display: inline-block;
+    width: 40%;
+    height: auto;
+}
+
+.row3 img{
+    display: inline-block;
+    width: 30%;
+    height: auto;
+}
